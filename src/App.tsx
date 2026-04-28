@@ -81,7 +81,7 @@ export default function App() {
             className="hidden sm:flex items-center gap-2 text-sm text-gray-500 hover:text-purple-500 transition-colors duration-200"
           >
             <Phone className="w-4 h-4" />
-            <span>(21) 97959-9040</span>
+            <span>(11) 94661-4258</span>
           </a>
         </div>
       </header>
@@ -139,7 +139,7 @@ export default function App() {
             &copy; {new Date().getFullYear()} Central de Atendimento &bull; Todos os direitos reservados
           </p>
           <p className="text-purple-400 text-xs mt-1">
-            Atendimento via WhatsApp: (21) 97959-9040
+            Atendimento via WhatsApp: (11) 94661-4258
           </p>
         </div>
       </footer>
