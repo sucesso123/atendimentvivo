@@ -101,7 +101,7 @@ export default function App() {
             </span>
           </h1>
           <h2 className="text-2xl sm:text-3xl font-bold text-red-500 mb-4">
-            Central de Atendimento
+            Central de Atendimento Claro
           </h2>
           <p className="text-gray-500 text-base sm:text-lg leading-relaxed">
             Escolha uma das opções abaixo e fale diretamente com nossa equipe pelo WhatsApp. Estamos prontos para te ajudar!
